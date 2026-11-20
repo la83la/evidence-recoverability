@@ -1,0 +1,10 @@
+{
+ "SUFF1 vs not | relevance (top1 only)": 0.577725527161011,
+ "SUFF1 vs not | score stats": 0.727746124842899,
+ "SUFF1 vs not | score+lexical": 0.7747179164921101,
+ "SUFF1 vs not | score+lexical+q2text": 0.7832076525624913,
+ "RECOV vs UNREC (|not SUFF1) | relevance (top1 only)": 0.5369630513891831,
+ "RECOV vs UNREC (|not SUFF1) | score stats": 0.7495956639775113,
+ "RECOV vs UNREC (|not SUFF1) | score+lexical": 0.7487581107880702,
+ "RECOV vs UNREC (|not SUFF1) | score+lexical+q2text": 0.7749099870997554
+}

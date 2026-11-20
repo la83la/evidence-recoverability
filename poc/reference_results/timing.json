@@ -1,0 +1,12 @@
+{
+ "model": "Qwen/Qwen2.5-3B-Instruct",
+ "K1": 5,
+ "K2": 5,
+ "n": 2417,
+ "corpus": 21100,
+ "sec_per_q_bm25_r1": 0.00037192607843338285,
+ "sec_per_q_llm_query": 0.18166214225210334,
+ "sec_per_q_bm25_r2": 0.0005581754764151267,
+ "gpu": "NVIDIA GeForce RTX 3080",
+ "batch": 16
+}

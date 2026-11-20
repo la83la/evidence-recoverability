@@ -1,0 +1,78 @@
+
+===== reference_results/longmemeval_s  (longmemeval_s, 970 items)
+labels: {'RECOV': 42, 'NOANS': 500, 'SUFF1': 330, 'UNREC': 98}
+same-budget control: {'UNREC': 103, 'NOANS': 500, 'SUFF1': 330, 'RECOV': 37}
+  knowledge-update             {'SUFF1': 61, 'NOANS': 78, 'UNREC': 7, 'RECOV': 4}
+  multi-session                {'RECOV': 13, 'NOANS': 133, 'UNREC': 49, 'SUFF1': 59}
+  single-session-assistant     {'SUFF1': 53, 'NOANS': 56, 'UNREC': 2, 'RECOV': 1}
+  single-session-preference    {'SUFF1': 14, 'NOANS': 30, 'UNREC': 9, 'RECOV': 7}
+  single-session-user          {'RECOV': 4, 'NOANS': 70, 'SUFF1': 60}
+  temporal-reasoning           {'SUFF1': 83, 'NOANS': 133, 'RECOV': 13, 'UNREC': 31}
+RECOV also recovered by same-query deeper retrieval: 25/42
+knowledge-update: round-1 has old evidence but misses latest: 6/72
+
+T1 SUFF1 vs rest: n=470 pos=330 groups=470
+  relevance(top1)    AUC=0.798
+  score              AUC=0.832
+  score+lex          AUC=0.837
+  score+lex+mem      AUC=0.829
+  all(+q2 text)      AUC=0.817
+
+T2 RECOV vs UNREC: n=140 pos=42 groups=140
+  relevance(top1)    AUC=0.549
+  score              AUC=0.557
+  score+lex          AUC=0.588
+  score+lex+mem      AUC=0.584
+  all(+q2 text)      AUC=0.568
+
+T3 RECOV vs NOANS: n=542 pos=42 groups=471
+  relevance(top1)    AUC=0.680
+  score              AUC=0.770
+  score+lex          AUC=0.837
+  score+lex+mem      AUC=0.836
+  all(+q2 text)      AUC=0.858
+
+T4 RECOV vs UNREC+NOANS: n=640 pos=42 groups=471
+  relevance(top1)    AUC=0.665
+  score              AUC=0.705
+  score+lex          AUC=0.763
+  score+lex+mem      AUC=0.745
+  all(+q2 text)      AUC=0.770
+
+===== reference_results/locomo  (locomo, 3521 items)
+labels: {'SUFF1': 797, 'NOANS': 1535, 'UNREC': 621, 'NOGOLD': 5, 'RECOV': 117, 'ADVERS': 446}
+same-budget control: {'SUFF1': 797, 'NOANS': 1535, 'UNREC': 624, 'NOGOLD': 5, 'RECOV': 114, 'ADVERS': 446}
+  cat1                         {'SUFF1': 29, 'NOANS': 282, 'UNREC': 232, 'RECOV': 21}
+  cat2                         {'SUFF1': 203, 'NOANS': 320, 'UNREC': 99, 'RECOV': 18, 'NOGOLD': 1}
+  cat3                         {'UNREC': 68, 'NOANS': 92, 'SUFF1': 19, 'NOGOLD': 4, 'RECOV': 5}
+  cat4                         {'SUFF1': 546, 'NOANS': 841, 'UNREC': 222, 'RECOV': 73}
+  cat5                         {'ADVERS': 446}
+RECOV also recovered by same-query deeper retrieval: 84/117
+
+T1 SUFF1 vs rest: n=1535 pos=797 groups=10
+  relevance(top1)    AUC=0.670
+  score              AUC=0.673
+  score+lex          AUC=0.725
+  score+lex+mem      AUC=0.736
+  all(+q2 text)      AUC=0.739
+
+T2 RECOV vs UNREC: n=738 pos=117 groups=10
+  relevance(top1)    AUC=0.552
+  score              AUC=0.541
+  score+lex          AUC=0.525
+  score+lex+mem      AUC=0.501
+  all(+q2 text)      AUC=0.496
+
+T3 RECOV vs NOANS: n=1652 pos=117 groups=10
+  relevance(top1)    AUC=0.529
+  score              AUC=0.554
+  score+lex          AUC=0.577
+  score+lex+mem      AUC=0.565
+  all(+q2 text)      AUC=0.554
+
+T4 RECOV vs UNREC+NOANS: n=2273 pos=117 groups=10
+  relevance(top1)    AUC=0.535
+  score              AUC=0.544
+  score+lex          AUC=0.561
+  score+lex+mem      AUC=0.543
+  all(+q2 text)      AUC=0.543

@@ -1,0 +1,20 @@
+{
+ "dataset": "longmemeval_s",
+ "data": "../memory_data/longmemeval_s_cleaned.json",
+ "out": "/tmp/claude-1000/-home-lala-evidence-recoverability-in-RAG/a2a8d330-88f7-4cdf-a339-025210e48bfa/scratchpad/mem_full_longmemeval_s",
+ "k1": 10,
+ "k2": 10,
+ "model": "Qwen/Qwen2.5-3B-Instruct",
+ "revision": "aa8e72537993ba99e69dfaafa59ed015b17504d1",
+ "batch": 8,
+ "device": "cuda:0",
+ "n": null,
+ "cf_delete": true,
+ "n_items": 970,
+ "prompt": "You are an assistant that can search your past conversations with the user(s).\nCurrent date: {date}\nQuestion: {q}\n\nConversation snippets retrieved so far:\n{ctx}\n\nWhat piece of information is still missing to answer the question? Write ONE short keyword search query that would find it in the past conversations. If a relevant name, item or time is already known from the snippets, use it in the query. Output only the query, nothing else.",
+ "snip_chars": 300,
+ "sec_per_item_bm25_index_and_r1": 0.05821444644141443,
+ "sec_per_item_llm_query": 0.2004313277215073,
+ "sec_per_item_r2": 0.000268308157773362,
+ "gpu": "NVIDIA GeForce RTX 3080"
+}

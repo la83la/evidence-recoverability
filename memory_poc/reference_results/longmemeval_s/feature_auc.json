@@ -1,0 +1,22 @@
+{
+ "T1 SUFF1 vs rest | relevance(top1)": 0.7975974025974025,
+ "T1 SUFF1 vs rest | score": 0.8323809523809524,
+ "T1 SUFF1 vs rest | score+lex": 0.8370779220779221,
+ "T1 SUFF1 vs rest | score+lex+mem": 0.8293073593073592,
+ "T1 SUFF1 vs rest | all(+q2 text)": 0.8172943722943723,
+ "T2 RECOV vs UNREC | relevance(top1)": 0.5488338192419826,
+ "T2 RECOV vs UNREC | score": 0.5566083576287658,
+ "T2 RECOV vs UNREC | score+lex": 0.5879494655004859,
+ "T2 RECOV vs UNREC | score+lex+mem": 0.5840621963070942,
+ "T2 RECOV vs UNREC | all(+q2 text)": 0.5677842565597667,
+ "T3 RECOV vs NOANS | relevance(top1)": 0.6799047619047619,
+ "T3 RECOV vs NOANS | score": 0.7698571428571428,
+ "T3 RECOV vs NOANS | score+lex": 0.8368095238095238,
+ "T3 RECOV vs NOANS | score+lex+mem": 0.8361904761904763,
+ "T3 RECOV vs NOANS | all(+q2 text)": 0.8575714285714285,
+ "T4 RECOV vs UNREC+NOANS | relevance(top1)": 0.6647157190635451,
+ "T4 RECOV vs UNREC+NOANS | score": 0.7049689440993789,
+ "T4 RECOV vs UNREC+NOANS | score+lex": 0.7629797738493391,
+ "T4 RECOV vs UNREC+NOANS | score+lex+mem": 0.7445054945054944,
+ "T4 RECOV vs UNREC+NOANS | all(+q2 text)": 0.7695891065456283
+}

@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+memory_data/
+poc/data/
+out*/
+*.tar.gz

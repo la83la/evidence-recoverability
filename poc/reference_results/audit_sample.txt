@@ -1,0 +1,270 @@
+
+#### P01 2hop__6745_6731 LABEL=SUFF1 cov1=2 cov12=2/2
+Q: What two dialects does the /u/ remaining distinct in this form of Catalan include? | gold: Northwestern Catalan and Valencian []
+decomp: [('/u/ remaining distinct is like what form of Catalan?', 'Western Catalan'), ('What two dialects does #1 include?', 'Northwestern Catalan and Valencian')]
+Q2: Western Catalan unstressed /u/ reduction
+  R1[ ] Catalan language | hits=[] | In Central Catalan, unstressed vowels reduce to three: /a e ɛ/ > [ə]; /o ɔ u/ > [u]; /i/ remains distinct. The other dialects have different vowel reduction processes (see the section pronunciation of dialects in this article).
+  R1[ ] Catalan language | hits=['Western Catalan'] | In Western Catalan, unstressed vowels reduce to five: /e ɛ/ > [e]; /o ɔ/ > [o]; /a u i/ remain distinct. This reduction pattern, inherited from Proto-Romance, is also found in Italian and Portuguese. Some Western dialects present 
+  R1[G] Catalan language | hits=['Western Catalan', 'Northwestern Catalan and Valencian'] | Western Catalan comprises the two dialects of Northwestern Catalan and Valencian; the Eastern block comprises four dialects: Central Catalan, Balearic, Rossellonese, and Alguerese. Each dialect can be further subdivided in several
+  R1[G] Catalan language | hits=['Western Catalan'] | In Majorcan, unstressed vowels reduce to four: /a e ɛ/ follow the Eastern Catalan reduction pattern; however /o ɔ/ reduce to [o], with /u/ remaining distinct, as in Western Catalan.
+  R1[ ] Catalan language | hits=[] | The morphology of Catalan personal pronouns is complex, specially in unstressed forms, which are numerous (13 distinct forms, compared to 11 in Spanish or 9 in Italian).  Features include the gender-neutral ho and the great degree
+  R2[ ] Catalan language | hits=[] | Catalan has inherited the typical vowel system of Vulgar Latin, with seven stressed phonemes: /a ɛ e i ɔ o u/, a common feature in Western Romance, except Spanish. Balearic has also instances of stressed /ə/. Dialects differ in th
+  R2[ ] Catalan language | hits=[] | In Eastern Catalan (except Majorcan), unstressed vowels reduce to three: /a e ɛ/ > [ə]; /o ɔ u/ > [u]; /i/ remains distinct. There are a few instances of unreduced [e], [o] in some words. Alguerese has lowered [ə] to [a].
+  R2[ ] Catalan language | hits=[] | Valencian is classified as a Western dialect, along with the northwestern varieties spoken in Western Catalonia (provinces of Lleida and the western half of Tarragona). The various forms of Catalan and Valencian are mutually intel
+  R2[ ] Catalan language | hits=[] | Despite its relative lexical unity, the two dialectal blocks of Catalan (Eastern and Western) show some differences in word choices. Any lexical divergence within any of the two groups can be explained as an archaism. Also, usuall
+  R2[ ] Russian language | hits=[] | The language possesses five vowels (or six, under the St. Petersburg Phonological School), which are written with different letters depending on whether or not the preceding consonant is palatalized. The consonants typically come 
+
+#### P02 2hop__539184_119915 LABEL=SUFF1 cov1=2 cov12=2/2
+Q: In what year did Taifa, of the birthplace of Ibn Abbad al-Rundi, cease to exist? | gold: 1065 []
+decomp: [('Ibn Abbad al-Rundi >> place of birth', 'Ronda'), ('In which year Taifa of #1 ceased to exist?', '1065')]
+Q2: when did taifa of ronda cease_to_exist
+  R1[G] Ibn Abbad al-Rundi | hits=['Ronda'] | Ibn Abbad al-Rundi (in full, Abu 'abd Allah Muhammad Ibn Abi Ishaq Ibrahim An-nafzi Al-himyari Ar-rundi) (1333–1390) was one of the leading Sufi theologians of his time who was born in Ronda. Attracted to Morocco by the famous mad
+  R1[G] Taifa of Ronda | hits=['Ronda', '1065'] | The Taifa of Ronda was a medieval Berber taifa kingdom centered in Moorish al-Andalus in what is now southern Spain. It existed from 1039 to 1065. The taifa was ruled by a family from the Berber Banu Ifran tribe of North Africa. I
+  R1[ ] Taifa of Mértola | hits=[] | The Taifa of Mértola was a medieval Moorish taifa that existed in what is now southeastern Portugal. It existed during three distinct periods: from 1033 to 1044, from 1144 to 1145, and from 1146 to 1151. From 1044 until 1091 it wa
+  R1[ ] Taifa of Morón | hits=[] | The Taifa of Morón was a medieval Berber taifa kingdom that existed from around 1010 to 1066. From 1066 until 1091 it was under the forcible control of Seville, by Abbad II al-Mu'tadid.
+  R1[ ] Taifa of Saltés and Huelva | hits=[] | The Taifa of Saltés and Huelva was a medieval Moorish taifa kingdom that existed in southern Iberia from around 1012 to 1051. From 1051 until 1091 it was under the forcible control of Seville, by Abbad II al-Mu'tadid.
+  R2[ ] Taifa of Carmona | hits=[] | The Taifa of Carmona was a medieval Berber taifa kingdom. It existed for two distinct periods: first from 1013 to 1066 when it was conquered by the Taifa of Seville, and secondly from around 1143 to 1150 when it was finally conque
+  R2[ ] Taifa of Guadix and Baza | hits=[] | The Taifa of Guadix and Baza was a medieval Moorish taifa kingdom. It existed from only 1145 to 1151 when it was conquered by the Taifa of Murcia.
+  R2[ ] Taifa of Tejada | hits=[] | The Taifa of Tejada was a medieval taifa kingdom that existed only from 1146 to 1150 when it was conquered by the Almohad Caliphate.
+  R2[ ] Taifa of Menorca | hits=[] | The Taifa of Menorca was a medieval taifa kingdom, which existed from 1228 until 1287, when the Crown of Aragon conquered it.
+  R2[ ] Taifa of Baeza | hits=[] | The Taifa of Baeza was a medieval taifa Moorish kingdom. It existed only from 1224 to 1226, when it fell to the Christian Kingdom of Castile.
+
+#### P03 2hop__96411_159054 LABEL=SUFF1 cov1=2 cov12=2/2
+Q: What was the story of the character from The Bourne Deception based on? | gold: the novel of the same name by Robert Ludlum ['Robert Ludlum']
+decomp: [('The The Bourne Deception has what character?', 'Jason Bourne'), ('What was the story of #1 based on?', 'the novel of the same name by Robert Ludlum')]
+Q2: Aaron Cross origin story
+  R1[G] The Bourne Deception | hits=['Jason Bourne'] | The Bourne Deception is the title for the novel by Eric Van Lustbader and the seventh novel in the Jason Bourne series created by Robert Ludlum. It was released on June 9, 2009. It is Lustbader's fourth Bourne novel, following "Th
+  R1[G] The Bourne Ultimatum (film) | hits=['Jason Bourne', 'the novel of the same name by Robert Ludlum'] | The Bourne Ultimatum is a 2007 action spy film directed by Paul Greengrass loosely based on the novel of the same name by Robert Ludlum.  The screenplay was written by Tony Gilroy, Scott Z. Burns and George Nolfi and based on a sc
+  R1[ ] The Bourne Legacy (film) | hits=['Jason Bourne'] | The titular character Jason Bourne does not appear in The Bourne Legacy, because actor Matt Damon chose not to return for the fourth film, due to Paul Greengrass not directing. Bourne is shown in pictures and mentioned by name sev
+  R1[ ] The Bourne Legacy (film) | hits=['Jason Bourne'] | The Bourne Legacy is a 2012 American action thriller film directed by Tony Gilroy, and is the fourth installment in the series of films adapted from the Jason Bourne novels originated by Robert Ludlum and continued by Eric Van Lus
+  R1[ ] The Bourne Legacy (film) | hits=['Jason Bourne'] | The Bourne Legacy is a 2012 American action thriller film directed by Tony Gilroy, and is the fourth installment in the series of films adapted from the "Jason Bourne" novels originated by Robert Ludlum and continued by Eric Van L
+  R2[ ] The Last Crossing | hits=[] | A rethinking of the genre of the "western", "The Last Crossing" is a tale of interwoven lives and stories taking place in the last half of the 19th century, travelling from England to the United States and the Canadian west.
+  R2[ ] Christmas Child | hits=[] | Christmas Child is a 2004 American Christian film directed by William Ewing starring Steven Curtis Chapman. The film is based on "The Christmas Cross", a short story by Max Lucado repackaged in 2003 as "The Christmas Child: A Stor
+  R2[ ] Savignano sul Rubicone | hits=[] | The comune takes its name from the Rubicon, famous for Julius Caesar's historic crossing. A combination of natural and man-made changes caused the original Rubicon to change course repeatedly since then. For centuries the exact lo
+  R2[ ] Omaruru River | hits=[] | The Omaruru River is a major river crossing the Erongo Region of western central Namibia from East to West. It originates in the Etjo mountains, crosses the city of Omaruru and reaches the sea a few kilometers north of Henties Bay
+  R2[ ] Father Brown, Detective | hits=[] | Father Brown, Detective is a 1934 American mystery film directed by Edward Sedgwick and starring Walter Connolly, Paul Lukas and Gertrude Michael. It is based on the Father Brown story "The Blue Cross" by G.K. Chesterton, a story 
+
+#### P04 2hop__788087_150107 LABEL=SUFF1 cov1=2 cov12=2/2
+Q: Who published the Communication of the association that Deborah Estrin is a member of? | gold: Association for Computing Machinery ['ACM']
+decomp: [('Deborah Estrin >> member of', 'ACM'), ('Who published Communications of the #1 ?', 'Association for Computing Machinery')]
+Q2: Deborah Estrin membership Communications of the ACM
+  R1[G] Deborah Estrin | hits=['ACM'] | Estrin has received numerous academic and popular recognitions for her research. She was named one of "Popular Science"'s "Brilliant 10" in 2003. In 2007, she was elected a Fellow of the American Academy of Arts and Sciences, and 
+  R1[ ] The Review of Communication | hits=[] | The Review of Communication is a peer-reviewed online academic journal which is published by Routledge for the National Communication Association. It publishes scholarship that advances the discipline of communication through the 
+  R1[G] Communications of the ACM | hits=['ACM', 'Association for Computing Machinery'] | Communications of the ACM is the monthly journal of the Association for Computing Machinery (ACM). It was established in 1958, with Saul Rosen as its first managing editor. It is sent to all ACM members.
+  R1[ ] Journal of Communication Management | hits=[] | The Journal of Communication Management is a quarterly peer-reviewed academic journal covering public relations and published by Emerald Group Publishing. It was established in 1996. The journal is abstracted and indexed in PsycIN
+  R1[ ] Ukrainian Association of Press Publishers | hits=[] | The Ukrainian Association of Press Publishers is the first independent union of publishers in Ukraine, which declared its commitment to advocacy and support of publishing business. The mission of UAPP is to unite publishers of new
+  R2[ ] Michael Schroeder | hits=['ACM'] | In 2006 ACM SIGSAC presented him with the Outstanding Innovations Award "for technical contributions to the field of computer and communication security that have had lasting impact in furthering or understanding the theory and/or
+  R2[ ] Mobile Computing and Communications Review | hits=['ACM'] | Mobile Computing and Communications Review (MC2R) is a peer-reviewed quarterly scientific journal and newsletter published by the ACM SIGMOBILE covering mobile computing and networking. The purpose of the journal is the rapid publ
+  R2[ ] 541 Deborah | hits=[] | Deborah (minor planet designation: 541 Deborah) is a minor planet orbiting the Sun. It was discovered by Max Wolf on August 4, 1904. The semi-major axis of the orbit lies just inside the 5/2 Kirkwood gap, located at 2.824 AU. It w
+  R2[ ] USS Acme (MSO-508) | hits=['ACM'] | USS "Acme" (MSO-508) was an acquired by the United States Navy for the task of removing mines that had been placed in the water to prevent the safe passage of ships.
+  R2[ ] ACM SIGGRAPH | hits=['ACM'] | ACM SIGGRAPH convenes the annual SIGGRAPH conference, attended by tens of thousands of computer professionals. The organization also sponsors other conferences around the world, and regular events are held by its professional and 
+
+#### P05 2hop__14095_15463 LABEL=SUFF1 cov1=2 cov12=2/2
+Q: In 2002, what company merged with the top PC manufacturer from 1994? | gold: Hewlett Packard ['Hewlett-Packard']
+decomp: [('Who became the top PC manufacturer in 1994, leaving Apple in 3rd place?', 'Compaq'), ('What company did #1 merge with in 2002?', 'Hewlett Packard')]
+Q2: 1994 top pc manufacturer mergers 2002
+  R1[G] Dell | hits=['Compaq', 'Hewlett Packard'] | From 1997 to 2004, Dell enjoyed steady growth and it gained market share from competitors even during industry slumps. During the same period, rival PC vendors such as Compaq, Gateway, IBM, Packard Bell, and AST Research struggled
+  R1[G] Macintosh | hits=['Compaq'] | The Macintosh, however, was expensive, which hindered its ability to be competitive in a market already dominated by the Commodore 64 for consumers, as well as the IBM Personal Computer and its accompanying clone market for busine
+  R1[ ] American Brass Company | hits=[] | The American Brass Company was an American brass manufacturing company based in Connecticut and active from 1893 to 1960. The company's predecessors were the Wolcottville Brass Company and the Ansonia Brass and Battery Company. It
+  R1[ ] Ensign Manufacturing Company | hits=[] | Ensign Manufacturing Company, founded as Ensign Car Works in 1872, was a railroad car manufacturing company based in Huntington, West Virginia. In the 1880s and 1890s Ensign's production of wood freight cars made the company one o
+  R1[ ] Celestial Games | hits=[] | Celestial Games is an independent video game development company based in Johannesburg, South Africa that started in 1994. They published two PC titles then closed their doors in 2001. In 2010, they reopened the company to work on
+  R2[ ] Northrop Corporation | hits=[] | Northrop Corporation was a leading United States aircraft manufacturer from its formation in 1939 until its 1994 merger with Grumman to form Northrop Grumman. The company is known for its development of the flying wing design, mos
+  R2[ ] Pontiac Firebird | hits=[] | Pontiac Firebird Trans Am Overview Manufacturer General Motors Production 1969 -- 2002 Body and chassis Class Pony car, Muscle car Body style 2 - door convertible 1969, 1987 -- 1989 Pontiac sanctioned special edition, 1991 -- 1992
+  R2[ ] Dragon Knight 4 | hits=[] | Dragon Knight 4 (ドラゴンナイト４) is an erotic role-playing video game developed by ELF Corporation and released only in Japan for several platforms between 1994 and 1997. In 1994, the game first became available for PC MS-DOS, NEC PC-98
+  R2[ ] Macintosh | hits=['Compaq'] | Compaq, who had previously held the third place spot among PC manufacturers during the 1980s and early-mid 1990s, initiated a successful price war in 1994 that vaulted them to the biggest by the year end, overtaking a struggling I
+  R2[ ] T-Mobile US | hits=[] | T - Mobile US traces its roots to the 1994 establishment of VoiceStream Wireless PCS as a subsidiary of Western Wireless Corporation. Spun off from parent Western Wireless on May 3, 1999, VoiceStream Wireless was purchased by Deut
+
+#### P06 3hop2__132957_483843_40768 LABEL=SUFF1 cov1=3 cov12=3/3
+Q: When did the maker of the Acura Legend, the manufacturer of Scion bbX and Nissan open US assembly plants? | gold: 1981 []
+decomp: [('Who made Acura Legend?', 'Honda'), ('Scion bbX >> manufacturer', 'Toyota'), ('When did #1 , #2 and Nissan open US assembly plants?', '1981')]
+Q2: when did toyota open us assembly plants
+  R1[G] Scion bbX | hits=['Toyota'] | The Scion bbX was first concept car to be revealed by Toyota for its daughter company, Scion. The concept was first shown at the New York International Auto Show in 2003. As shown at the motor show, the bbX is very similar to the 
+  R1[G] 1973 oil crisis | hits=['Honda', 'Toyota', '1981'] | Some buyers lamented the small size of the first Japanese compacts, and both Toyota and Nissan (then known as Datsun) introduced larger cars such as the Toyota Corona Mark II, the Toyota Cressida, the Mazda 616 and Datsun 810, whi
+  R1[ ] Acura RL | hits=['Honda'] | The Acura RL is a mid-sized / executive luxury car that was manufactured by the Acura division of Honda for the 1996–2012 model years over two generations. The RL was the flagship of the marque, having succeeded the Acura Legend, 
+  R1[G] Acura Legend | hits=['Honda'] | The Acura Legend is a mid-size luxury/executive car manufactured by Honda. It was sold in the U.S., Canada, and parts of China under Honda's luxury brand, Acura, from 1985 to 1995, as both a sedan, which was classified as a full-s
+  R1[ ] Norfolk Assembly | hits=[] | Norfolk Assembly was a Ford manufacturing plant that opened on April 20, 1925 on the Elizabeth River, near downtown Norfolk, Virginia -- closing in 2007.
+  R2[ ] Janesville Assembly Plant | hits=[] | Janesville Assembly Plant is a former automobile factory owned by General Motors located in Janesville, Wisconsin. Opened in 1919, it was the oldest operating GM plant when it was largely idled in December 2008, and ceased all rem
+  R2[ ] Toyota | hits=['Honda', 'Toyota'] | By the early 1960s, the US had begun placing stiff import tariffs on certain vehicles. The so - called ``chicken tax ''of 1964 placed a 25% tax on imported light trucks. In response to the tariff, Toyota, Nissan Motor Co. and Hond
+  R2[ ] Seattle | hits=[] | Seattle remained the corporate headquarters of Boeing until 2001, when the company separated its headquarters from its major production facilities; the headquarters were moved to Chicago. The Seattle area is still home to Boeing's
+  R2[ ] Samcor | hits=[] | Ford South Africa was based in Port Elizabeth (now part of the Eastern Cape province) and had been operating since 1923. In the early 1980s, it had both a vehicle assembly plant and an engine plant in Struandale, together with an 
+  R2[ ] Toyota Matrix | hits=['Toyota'] | Toyota Matrix Overview Manufacturer Toyota Also called Toyota Corolla Matrix Production 2002 -- 2014 Model years 2003 -- 2013 (USA) 2003 -- 2014 (Canada) Assembly Cambridge, Ontario, Canada (TMMC) Body and chassis Class Compact ca
+
+#### P07 2hop__704217_82341 LABEL=RECOV cov1=1 cov12=2/2
+Q: Where is Sean Hampton's birth place in the state of Florida? | gold: in Northern Florida ['Northern Florida']
+decomp: [('Sean Hampton >> place of birth', 'Ocala'), ('where is #1 in the state of florida', 'in Northern Florida')]
+Q2: Ocala Florida birth place
+  R1[G] Sean Hampton | hits=['Ocala'] | Born in Ocala, Florida, Hampton is the youngest of five children of a dentist father and a professional model mother. After graduating high school, Hampton enrolled at Stetson University to pursue a career in law. While in school 
+  R1[ ] Hampton Beach State Park | hits=[] | Hampton Beach State Park is a state park in the community of Hampton Beach, New Hampshire, United States. It is located on the southeastern edge of New Hampshire on a peninsula where the Hampton River meets the Atlantic Ocean. Oce
+  R1[ ] Wade Hampton, South Carolina | hits=[] | Wade Hampton is a census-designated place (CDP) in Greenville County, South Carolina, United States. The population was 20,622 at the 2010 census. It is named for American Civil War general and South Carolina governor Wade Hampton
+  R1[ ] Hampton Falls, New Hampshire | hits=[] | Hampton Falls (formerly the Third Parish and Hampton falls) is a New England town in Rockingham County, New Hampshire, United States. The population was 2,236 at the 2010 census.
+  R1[ ] Hampton Bluffs | hits=[] | The Hampton Bluffs () are a group of three rock bluffs on the east side of Larsen Inlet, Graham Land, Antarctica. They were mapped from surveys by the Falkland Islands Dependencies Survey (FIDS) (1960–61), and were named by the UK
+  R2[G] Ocala, Florida | hits=['Ocala', 'in Northern Florida'] | Ocala (/ oʊ ˈkælə / oh - KAL - ə) is a city located in Northern Florida. As of the 2013 census, its population, estimated by the United States Census Bureau, was 57,468, making it the 45th most populated city in Florida.
+  R2[ ] WMOP | hits=['Ocala'] | WMOP is a commercial radio station in Ocala, Florida, broadcasting to the Gainesville-Ocala, Florida area on 900 AM. WMOP is the FOX Sports Radio affiliate for Ocala; additionally, it produces local content which is also broadcast
+  R2[ ] Chris Meffert | hits=['Ocala'] | Born in Ocala, Florida, Meffert graduated from Ocala High School. He then received his bachelor's degree from Florida State University and his law degree from the Florida State University College of Law. He served as an assistant 
+  R2[ ] WGGG | hits=['Ocala'] | WGGG is a commercial radio station in Gainesville, Florida, broadcasting to the Gainesville-Ocala, Florida area on 1230 AM. WGGG is the NBC Sports Radio affiliate for Gainesville; additionally, it broadcasts local content provided
+  R2[ ] WKTK | hits=['Ocala'] | WKTK is a commercial radio station licensed in Crystal River, Florida, broadcasting to the Gainesville–Ocala, Florida area on 98.5 FM.
+
+#### P08 2hop__742831_156034 LABEL=RECOV cov1=1 cov12=2/2
+Q: Of which river is the river Kichi Sipi Bridge crosses a tributary? | gold: Hudson's Bay ['Hudson Bay', 'HB']
+decomp: [('Kichi Sipi Bridge >> crosses', 'Nelson River'), ('What is #1 a tributary of?', "Hudson's Bay")]
+Q2: Nelson River tributaries
+  R1[G] Kichi Sipi Bridge | hits=['Nelson River'] | The Kichi Sipi Bridge spans a deep channel of the Nelson River south of Cross Lake, providing the only all-weather road link between eastern Manitoba and the rest of Canada and North America. Its origins are unusual and its techno
+  R1[ ] Napan River | hits=[] | The Napan River in Canada is a tributary of the Miramichi River in New Brunswick, Canada. The river rises several kilometres southwest of Chatham in central Northumberland County and flows northeast into the Miramichi River at Nap
+  R1[ ] Sturgeon River (Alberta) | hits=[] | The Sturgeon River is a 260 km long river located in central Alberta, Canada. It is a major tributary of the North Saskatchewan River. The stream crosses Sturgeon County, which was named for this river.
+  R1[ ] 16th Avenue Bailey Bridge | hits=[] | Old (16th Avenue) Bailey Bridge was a bailey bridge located on 16th Avenue (York Regional Road 73) east of Reesor Road within Rouge Park in Markham, Ontario, Canada. The bridge crossed the Little Rouge Creek, a tributary of the Ro
+  R1[ ] Merchants Bridge | hits=[] | The Merchants Bridge, officially the Merchants Memorial Mississippi Rail Bridge, is a rail bridge crossing the Mississippi River between St. Louis, Missouri, and Venice, Illinois. The bridge is owned by the Terminal Railroad Assoc
+  R2[ ] Silver Lake (Harrisville, New Hampshire) | hits=[] | Silver Lake is a water body located in Cheshire County in southwestern New Hampshire, United States, in the towns of Harrisville and Nelson. Water from Silver Lake flows via Minnewawa Brook and The Branch to the Ashuelot River, a 
+  R2[G] Nelson River | hits=['Nelson River', "Hudson's Bay"] | Fort Nelson, a historic Hudson's Bay Company trading post, was at the mouth of the Nelson River at Hudson Bay and was a key trading post in the early 18th century. After his pivotal role in establishing the Hudson's Bay Company, P
+  R2[ ] Dep River | hits=[] | The Dep River () is a tributary of the Zeya River (itself a tributary of the Amur River) in eastern Russia.
+  R2[ ] Nelson Mandela Bridges | hits=[] | The Nelson Mandela Bridges (French: "Ponts Nelson-Mandela") are two twin bridges in France, along the River Seine, between Ivry-sur-Seine and Charenton-le-Pont, where the Seine and the River Marne have their confluence. Initially 
+  R2[ ] Runde River | hits=[] | The Runde River (formerly Lundi River) is a river in southeastern Zimbabwe. It is a tributary of the Save River and its major tributaries include the Ngezi River, Tokwe River, Mutirikwe River and Chiredzi River.
+
+#### P09 2hop__216959_204037 LABEL=RECOV cov1=1 cov12=2/2
+Q: Who is part of the band which performed Cherchez le Garçon? | gold: Daniel Darc ['Daniel Rozoum']
+decomp: [('Cherchez le garçon >> performer', 'Taxi Girl'), ('#1 >> has part', 'Daniel Darc')]
+Q2: Taxi Girl members
+  R1[G] Cherchez le garçon | hits=['Taxi Girl'] | Cherchez le garçon is the 1980 debut album by French new wave band Taxi Girl. "Mannequin," "Jardin Chinois" and the title track were released as singles. The title track is one of the band's best known songs.
+  R1[ ] The Girl and the Boy | hits=[] | The Girl and the Boy (French: La fille et le garçon) is a 1931 comedy film directed by Roger Le Bon and Wilhelm Thiele and starring Lilian Harvey, Henri Garat and Lucien Baroux. It was made by the major studio UFA as the French-la
+  R1[ ] Adrien-Jean Le Mayeur | hits=[] | Adrien-Jean Le Mayeur de Merpres (9 February 1880 – 31 May 1958) was a Belgian painter from Brussels who lived the last part of his life in Bali.
+  R1[ ] Canadian Grenadier Guards Band | hits=[] | The Canadian Grenadier Guards Band (sometimes referred to as His Majesty's Canadian Grenadier Guards Band) was a Canadian military band that was active for more than 60 years during the 20th century. In addition to performing for 
+  R1[ ] Le Châtelard, Valais | hits=[] | Le Châtelard (altitude ) is a locality in the canton of Valais, Switzerland near the border with France. It is part of the municipality of Finhaut.
+  R2[G] Daniel Darc | hits=['Taxi Girl', 'Daniel Darc'] | Daniel Rozoum (20 May 1959 - 28 February 2013), known as Daniel Darc, was a French singer, who achieved success with his band Taxi Girl (together with Mirwais Ahmadzaï) between 1978 and 1986, and also as a solo artist.
+  R2[ ] Speed Angels | hits=[] | Taxi driver Xiaoyi (Tang Wei) is discovered by a race car coach and becomes a member of the racing team Speed Angels.
+  R2[ ] Taxi Orange | hits=[] | Taxi Orange was an alternative to the "Big Brother" reality show, quite popular in Austria. It was broadcast by the public television channel ORF. The idea, like "Big Brother", was to lock up a group of people in a closed environm
+  R2[ ] Withington Girls' School | hits=[] | Withington Girls' School is an independent day school in Fallowfield, Manchester, United Kingdom, providing education for girls between the ages of seven and eighteen. Withington is a member of the Girls' Schools Association.
+  R2[ ] Reform School Girl | hits=[] | Reform School Girl is a 1957 film starring Gloria Castillo as a teenage girl who is sent to a reformatory. The film was directed by Edward Bernds and was produced by Samuel Z. Arkoff. "Reform School Girl" was one of many sexploita
+
+#### P10 2hop__32254_84601 LABEL=RECOV cov1=1 cov12=2/2
+Q: When did the spacecraft that detected storms on Neptune leave our solar system? | gold: August 30, 2007 []
+decomp: [('What detected the storms on Neptune?', 'Voyager 2)'), ('when did #1 leave our solar system', 'August 30, 2007')]
+Q2: Voyager 2 launch date
+  R1[ ] Exploration of Neptune | hits=[] | The exploration of Neptune has only begun with one spacecraft, Voyager 2 in 1989. Currently there are no approved future missions to visit the Neptunian system. NASA, ESA and also independent academic groups have proposed future s
+  R1[ ] Kuiper belt | hits=[] | The Kuiper belt (/ ˈkaɪpər / or Dutch pronunciation: ('kœy̯pər)), occasionally called the Edgeworth -- Kuiper belt, is a circumstellar disc in the outer Solar System, extending from the orbit of Neptune (at 30 AU) to approximately
+  R1[ ] Neptune | hits=[] | The average distance between Neptune and the Sun is 4.5 billion km (about 30.1 astronomical units (AU)), and it completes an orbit on average every 164.79 years, subject to a variability of around ±0.1 years. The perihelion distan
+  R1[G] Neptune | hits=['Voyager 2)'] | The Scooter is another storm, a white cloud group farther south than the Great Dark Spot. This nickname first arose during the months leading up to the Voyager 2 encounter in 1989, when they were observed moving at speeds faster t
+  R1[ ] Neptune | hits=[] | Because of the distance of Neptune from Earth, its angular diameter only ranges from 2.2 to 2.4 arcseconds, the smallest of the Solar System planets. Its small apparent size makes it challenging to study it visually. Most telescop
+  R2[ ] Ashes to Ashes (Star Trek: Voyager) | hits=[] | ``Ashes to Ashes ''Star Trek: Voyager episode Episode no. Season 6 Episode 18 Directed by Terry Windell Story by Ronald Wilkerson Teleplay by Robert Doherty Featured music Dennis McCarthy Production code 238 Original air date Marc
+  R2[ ] Mutiny on the Bounty | hits=[] | The mutiny on the Royal Navy vessel HMS Bounty occurred in the south Pacific on 28 April 1789. Led by Acting Lieutenant Fletcher Christian, disaffected crewmen seized control of the ship from their captain, Lieutenant William Blig
+  R2[G] Voyager 2 | hits=['August 30, 2007'] | On August 30, 2007, Voyager 2 passed the termination shock and then entered into the heliosheath, approximately 1 billion miles (1.6 billion km) closer to the Sun than Voyager 1 did. This is due to the interstellar magnetic field 
+  R2[ ] Voyager 2 | hits=[] | Following a mid-course correction in 1987, Voyager 2's closest approach to Neptune occurred on August 25, 1989. Through repeated computerized test simulations of trajectories through the Neptunian system conducted in advance, flig
+  R2[ ] Northwest Passage | hits=[] | The first recorded attempt to discover the Northwest Passage was the east - west voyage of John Cabot in 1497, sent by Henry VII in search of a direct route to the Orient. In 1524, Charles V sent Estêvão Gomes to find a northern A
+
+#### P11 2hop__487706_40501 LABEL=RECOV cov1=1 cov12=2/2
+Q: How many refugees emigrated to the participant of Battle of Kentish Knock? | gold: 75,000 to 100,000 []
+decomp: [('Battle of the Kentish Knock >> participant', 'Dutch Republic'), ('How many refugees emigrated to #1 ?', '75,000 to 100,000')]
+Q2: Huguenot emigration to Britain
+  R1[G] Battle of the Kentish Knock | hits=['Dutch Republic'] | The Battle of the Kentish Knock (or the Battle of the Zealand Approaches) was a naval battle between the fleets of the Dutch Republic and England, fought on 28 September 1652 (8 October Gregorian calendar), during the First Anglo-
+  R1[ ] Battle of Uhud | hits=[] | The battle was fought on Saturday, 22 December 624 (7 Shawwal AH 3 in the Islamic calendar) at the valley located in front of Mount Uhud. It occurred between a force from the Muslim community of Medina led by the Islamic prophet M
+  R1[ ] Huguenots | hits=[] | The revocation forbade Protestant services, required education of children as Catholics, and prohibited emigration. It proved disastrous to the Huguenots and costly for France. It precipitated civil bloodshed, ruined commerce, and
+  R1[ ] Refugee Act | hits=[] | The United States Refugee Act of 1980 (Public Law 96-212) is an amendment to the earlier Immigration and Nationality Act and the Migration and Refugee Assistance Act, and was created to provide a permanent and systematic procedure
+  R1[ ] The Night in Lisbon | hits=[] | The Night in Lisbon () is a novel by Erich Maria Remarque published in 1962. It revolves around the plight of two German refugees in the opening months of World War II. One of the refugees relates their story during the course of 
+  R2[ ] Huguenots in South Africa | hits=[] | On 31 December 1687 a group of Huguenots set sail from France as the first of the large scale emigration of Huguenots to the Cape of Good Hope, which took place during 1688 and 1689. In total some 180 Huguenots from France, and 18
+  R2[ ] Huguenots | hits=[] | Barred by the government from settling in New France, Huguenots led by Jessé de Forest, sailed to North America in 1624 and settled instead in the Dutch colony of New Netherland (later incorporated into New York and New Jersey); a
+  R2[ ] Huguenots | hits=[] | Prince Louis de Condé, along with his sons Daniel and Osias,[citation needed] arranged with Count Ludwig von Nassau-Saarbrücken to establish a Huguenot community in present-day Saarland in 1604. The Count supported mercantilism an
+  R2[ ] Huguenots | hits=[] | One of the most prominent Huguenot refugees in the Netherlands was Pierre Bayle. He started teaching in Rotterdam, where he finished writing and publishing his multi-volume masterpiece, Historical and Critical Dictionary. It becam
+  R2[G] Huguenots | hits=['Dutch Republic', '75,000 to 100,000'] | After the revocation of the Edict of Nantes, the Dutch Republic received the largest group of Huguenot refugees, an estimated total of 75,000 to 100,000 people. Amongst them were 200 clergy. Many came from the region of the Cévenn
+
+#### P12 3hop2__132957_133292_40768 LABEL=RECOV cov1=2 cov12=3/3
+Q: When did Nissan along with the creator of the Hino Dutro and the maker of the Acura Legend open US assembly plants? | gold: 1981 []
+decomp: [('Who made Acura Legend?', 'Honda'), ('Which corporation created Hino Dutro?', 'Toyota'), ('When did #1 , #2 and Nissan open US assembly plants?', '1981')]
+Q2: when did nissan open us assembly plants for acura legend
+  R1[G] Hino Dutro | hits=['Toyota'] | The Hino Dutro () is a light commercial truck shared with the Toyota Dyna, manufactured by Hino Motors. Like the Dyna and its twin Toyoace, the Dutro is built on the U300 platform for standard cab, or U400 platform for the wide ca
+  R1[G] 1973 oil crisis | hits=['Honda', 'Toyota', '1981'] | Some buyers lamented the small size of the first Japanese compacts, and both Toyota and Nissan (then known as Datsun) introduced larger cars such as the Toyota Corona Mark II, the Toyota Cressida, the Mazda 616 and Datsun 810, whi
+  R1[ ] Janesville Assembly Plant | hits=[] | Janesville Assembly Plant is a former automobile factory owned by General Motors located in Janesville, Wisconsin. Opened in 1919, it was the oldest operating GM plant when it was largely idled in December 2008, and ceased all rem
+  R1[ ] Acura RL | hits=['Honda'] | The Acura RL is a mid-sized / executive luxury car that was manufactured by the Acura division of Honda for the 1996–2012 model years over two generations. The RL was the flagship of the marque, having succeeded the Acura Legend, 
+  R1[ ] Acura RL | hits=['Honda'] | The first-generation Acura RL was a rebadged version of the third-generation Honda Legend, and was first introduced to the North American market in 1996, to replace the second-generation Acura Legend. The second-generation Acura R
+  R2[G] Acura Legend | hits=['Honda'] | The Acura Legend is a mid-size luxury/executive car manufactured by Honda. It was sold in the U.S., Canada, and parts of China under Honda's luxury brand, Acura, from 1985 to 1995, as both a sedan, which was classified as a full-s
+  R2[ ] Acura EL | hits=['Honda'] | The Acura EL is a subcompact executive car that was built at Honda's Alliston, Ontario, plant, and also the first Acura built in Canada. The EL is a badge-engineered Honda Civic with a higher level of features.
+  R2[ ] Seattle | hits=[] | Seattle remained the corporate headquarters of Boeing until 2001, when the company separated its headquarters from its major production facilities; the headquarters were moved to Chicago. The Seattle area is still home to Boeing's
+  R2[ ] Norfolk Assembly | hits=[] | Norfolk Assembly was a Ford manufacturing plant that opened on April 20, 1925 on the Elizabeth River, near downtown Norfolk, Virginia -- closing in 2007.
+  R2[ ] Acura RLX | hits=['Honda'] | The Acura RLX is a full-size luxury sedan manufactured by Honda and sold under their Acura division, released in 2013. Succeeding the Acura RL, the RLX offers two versions, a front-wheel drive base model equipped with Acura's Prec
+
+#### P13 2hop__29752_814677 LABEL=UNREC cov1=0 cov12=1/2
+Q: What is the ruler of the underworld in ancient Egypt a part of? | gold: ancient Egyptian religion []
+decomp: [('Who was the ruler of the underworld in ancient Egypt?', 'Osiris'), ('#1 >> part of', 'ancient Egyptian religion')]
+Q2: Romance of the Underworld characters underworld ruler ancient Egypt
+  R1[ ] Cats in ancient Egypt | hits=[] | Cats (Felis silvestris catus), known in ancient Egypt as ``Mau '', were considered sacred in ancient Egyptian society. Based on recent DNA comparisons of living species, it has been estimated that cats were first domesticated from
+  R1[ ] Upper and Lower Egypt | hits=[] | The two kingdoms of Upper and Lower Egypt were united c. 3000 BC, but each maintained its own regalia: the hedjet or White Crown for Upper Egypt and the deshret or Red Crown for Lower Egypt. Thus, the pharaohs were known as the ru
+  R1[ ] Pinedjem I | hits=[] | Pinedjem I was the High Priest of Amun at Thebes in Ancient Egypt from 1070 to 1032 BC and the "de facto" ruler of the south of the country from 1054 BC. He was the son of the High Priest Piankh. However, many Egyptologists today 
+  R1[ ] Romance of the Underworld | hits=[] | Romance of the Underworld is a 1928 American silent film drama produced and distributed by Fox Film Corporation. Directed by Irving Cummings and starring Mary Astor. It is taken from a stage play called "A Romance of the Underworl
+  R1[ ] History of medicine | hits=[] | The earliest known physician is also credited to ancient Egypt: Hesy - Ra, ``Chief of Dentists and Physicians ''for King Djoser in the 27th century BCE. Also, the earliest known woman physician, Peseshet, practiced in Ancient Egyp
+  R2[ ] Greek underworld | hits=[] | In mythology, the Greek underworld is an otherworld where souls go after death. The original Greek idea of afterlife is that, at the moment of death, the soul is separated from the corpse, taking on the shape of the former person,
+  R2[G] Green | hits=['Osiris'] | For the ancient Egyptians, green had very positive associations. The hieroglyph for green represented a growing papyrus sprout, showing the close connection between green, vegetation, vigor and growth. In wall paintings, the ruler
+  R2[ ] Justice League (film) | hits=[] | Ben Affleck as Bruce Wayne / Batman: A wealthy socialite, and the owner of Wayne Enterprises. He dedicates himself to protecting Gotham City from its criminal underworld as a highly trained, masked vigilante equipped with various 
+  R2[ ] The Rape of Proserpina | hits=[] | The Rape of Proserpina () is a large Baroque marble sculptural group by Italian artist Gian Lorenzo Bernini, executed between 1621 and 1622. Bernini was only 23 years old at its completion. It depicts the Abduction of Proserpina, 
+  R2[ ] Minos | hits=[] | In Greek mythology, Minos (; , "Minōs") was the first King of Crete, son of Zeus and Europa. Every nine years, he made King Aegeus pick seven young boys and seven young girls to be sent to Daedalus's creation, the labyrinth, to be
+
+#### P14 2hop__7046_44085 LABEL=UNREC cov1=1 cov12=1/2
+Q: What was the old show that was named after a character that Walt Disney created in 1928 called? | gold: The Mickey Mouse Club []
+decomp: [('What character did Walt Disney create in 1928?', 'Mickey Mouse'), ('what was the old #1 show called', 'The Mickey Mouse Club')]
+Q2: Horace Horsecollar shows up in what Disney series?
+  R1[ ] Mickey Mouse | hits=['Mickey Mouse'] | Mickey Mouse is a funny animal cartoon character and the mascot of The Walt Disney Company. He was created by Walt Disney and Ub Iwerks at the Walt Disney Studios in 1928. An anthropomorphic mouse who typically wears red shorts, l
+  R1[ ] Mickey Mouse | hits=['Mickey Mouse'] | In the spring of 1928, Disney asked Ub Iwerks to start drawing up new character ideas. Iwerks tried sketches of various animals, such as dogs and cats, but none of these appealed to Disney. A female cow and male horse were also re
+  R1[G] Universal Pictures | hits=['Mickey Mouse'] | Universal owned the rights to the "Oswald the Lucky Rabbit" character, although Walt Disney and Ub Iwerks had created Oswald, and their films had enjoyed a successful theatrical run. After Charles Mintz had unsuccessfully demanded
+  R1[ ] Clarabelle Cow | hits=['Mickey Mouse'] | Clarabelle Cow is a Disney fictional character within the Mickey Mouse universe of characters. Clarabelle Cow was created by Walt Disney and Ub Iwerks in 1928. Clarabelle is one of Minnie Mouse's best friends and is usually depict
+  R1[ ] Marvel Comics | hits=[] | Walt Disney Parks and Resorts plans on creating original Marvel attractions at their theme parks, with Hong Kong Disneyland becoming the first Disney theme park to feature a Marvel attraction. Due to the licensing agreement with U
+  R2[ ] Mickey's Revue | hits=['Mickey Mouse'] | Mickey's Revue is a 1932 Walt Disney cartoon, directed by Wilfred Jackson, which features Mickey Mouse, Minnie Mouse, Horace Horsecollar and Clarabelle Cow performing a song and dance show.
+  R2[ ] It's Garry Shandling's Show | hits=[] | The series' theme song was ``This is the Theme to Garry's Show '', sung by Los Angeles musician Bill Lynch. The song's lyrics are self - referential, explaining how the song came to be (`` Garry called me up and asked if I would w
+  R2[ ] Little Einsteins | hits=[] | Little Einsteins is an American interactive animated children's television series on Playhouse Disney. The educational preschool series was developed for television by Douglas Wood who created the concept and characters, and a sub
+  R2[ ] The Famous Jett Jackson | hits=[] | The Famous Jett Jackson is a joint Canadian-American coming-of-age television series for the Disney Channel. The show is about a boy named Jett Jackson (Lee Thompson Young) who plays a teenage secret agent on a fictional TV show-w
+  R2[ ] The Proud Family | hits=[] | "The Proud Family" was created by Walt Disney Animation Studios animator Bruce W. Smith and was produced by Jambalaya Studios. Originally piloted for Disney's One Saturday Morning, then Nickelodeon, it was eventually picked up by 
+
+#### P15 2hop__159903_419949 LABEL=UNREC cov1=0 cov12=0/2
+Q: What is the capital of the country it is about? | gold: Aden []
+decomp: [('What part of the country is it about?', 'South Yemen'), ('#1 >> capital', 'Aden')]
+Q2: capital of effiakuma
+  R1[ ] What We Talk About When We Talk About Love | hits=[] | What We Talk About When We Talk About Love is a 1981 collection of short stories by American writer Raymond Carver, as well as the title of one of the stories in the collection.
+  R1[ ] What's Happened to Blue Eyes | hits=[] | "What's Happened to Blue Eyes" is a country music song recorded by American country artist Jessi Colter. The song was released as her second single under Capitol Records August 4, 1975, peaking as a Top 10 hit on the Billboard Cou
+  R1[ ] What Kind of Love | hits=[] | "What Kind of Love" is a song co-written and recorded by American country music artist Rodney Crowell. It was released in June 1992 as the second single from the album "Life Is Messy". The song reached number 11 on the U.S. "Billb
+  R1[ ] Effiakuma | hits=[] | Effiakuma is a residential town in the Western region of Ghana. It is about 10 kilometres from Takoradi the regional capital. It was built in the early 1960s by the then president of the country Kwame Nkrumah. There are about thre
+  R1[ ] What's in It for Me | hits=[] | "What's in It for Me" is a song written by Gary Burr and John Jarrard, and recorded by American country music artist John Berry. It was released in June 1994 as the fourth single from the album "John Berry". The song reached numbe
+  R2[ ] Capital Department, Salta | hits=[] | Capital is a department located in Salta Province, Argentina. It is the department of the provincial capital, the city of Salta, and the most populated one.
+  R2[ ] Washington Capitals | hits=[] | The Washington Capitals are a professional ice hockey team based in Washington, D.C. They are members of the Metropolitan Division of the Eastern Conference of the National Hockey League (NHL). The Capitals are owned by Monumental
+  R2[ ] List of capitals in Pakistan | hits=[] | Islamabad officially became the capital of Pakistan on 14 August 1967, exactly 20 years after the country's independence. Previously, Rawalpindi was the capital, designated in 1958. The first capital of Pakistan was the coastal ci
+  R2[ ] List of capitals in the United States | hits=[] | Washington, D.C. is the current federal capital city of the United States, as it has been since 1800. Each U.S. state has its own capital city, as do many of its Insular areas. Historically, most states have not changed their capi
+  R2[ ] Metalmark Capital | hits=[] | Metalmark Capital, formerly Morgan Stanley Capital Partners is a private equity firm focused on leveraged buyout investments in middle-market companies across a range of industries. Metalmark was acquired by Citigroup Alternative 
+
+#### P16 2hop__686395_141338 LABEL=UNREC cov1=1 cov12=1/2
+Q: What company is Frederic Ewen's employer part of? | gold: City University of New York ['The City University of New York']
+decomp: [('Frederic Ewen >> employer', 'Brooklyn College'), ('What company is #1 part of?', 'City University of New York')]
+Q2: Suetonius Grant Heatly employer
+  R1[G] Frederic Ewen | hits=['Brooklyn College'] | Frederic Ewen (1899 – October 18, 1988) was an English professor at Brooklyn College from 1930 to 1952. During the height of the McCarthy period Ewen was forced to resign his teaching position after refusing to cooperate with a Se
+  R1[ ] Full-time | hits=[] | Full - time employment is employment in which a person works a minimum number of hours defined as such by his / her employer. Full - time employment often comes with benefits that are not typically offered to part - time, temporar
+  R1[ ] Suetonius Grant Heatly | hits=[] | Suetonius Grant Heatly (sometimes spelled as "Heatley") (1751–1793) was a judge employed by the British East India Company and, with John Sumner, established what is considered to be the first coal mine in India.
+  R1[ ] Ian Ewen-Street | hits=[] | Ian Ewen-Street (born 1949) is a New Zealand politician. He was a member of the Green Party and a Member of the New Zealand Parliament for the Greens from 1999 to 2005. He has been prominent in advocacy for organic farming, organi
+  R1[ ] Frederic Jones | hits=[] | Frederic Jones (1832 – 8 September 1890) was a New Zealand politician. Originally from England, he settled in the colony in 1863 for health reasons.
+  R2[ ] Child labour | hits=[] | In the early 20th century, thousands of boys were employed in glass making industries. Glass making was a dangerous and tough job especially without the current technologies. The process of making glass includes intense heat to me
+  R2[ ] Incandescent light bulb | hits=[] | Lewis Latimer, employed at the time by Edison, developed an improved method of heat-treating carbon filaments which reduced breakage and allowed them to be molded into novel shapes, such as the characteristic "M" shape of Maxim fi
+  R2[ ] Alcohol, Drug Abuse, and Mental Health Services Block Grant | hits=[] | The Alcohol, Drug Abuse, and Mental Health Services Block Grant (or ADMS Block Grant) was a federal assistance block grant given by the United States Department of Health and Human Services. This block grant has been replaced by t
+  R2[ ] In the Heat of the Night (TV series) | hits=[] | The theme song, ``In the Heat of the Night, ''was recorded by Quincy Jones, and is usually paired with`` They Call Me Mr. Tibbs'' on albums. Bill Champlin of the band Chicago sang the opening theme song for the television series.
+  R2[ ] In the Heat of the Sun | hits=[] | In the Heat of the Sun is a 1994 Chinese film directed and written by Jiang Wen. This was Jiang Wen's first foray into directing after years as a leading man. The film is based loosely on author Wang Shuo's novel "Wild Beast".
+
+#### P17 2hop__50910_177869 LABEL=UNREC cov1=1 cov12=1/2
+Q: Who married the publisher of abolitionist newspaper The North Star? | gold: Helen Pitts Douglass []
+decomp: [('who published the abolitionist newspaper the north star', 'Frederick Douglass'), ('#1 >> spouse', 'Helen Pitts Douglass')]
+Q2: who was the publisher of the north star newspaper
+  R1[ ] William Cooper Nell | hits=[] | William Cooper Nell (December 16, 1816 – May 25, 1874) was an African-American abolitionist, journalist, publisher, author, and civil servant of Boston, Massachusetts, who worked for integration of schools and public facilities in
+  R1[G] The North Star (anti-slavery newspaper) | hits=['Frederick Douglass'] | The North Star was a nineteenth - century anti-slavery newspaper published from the Talman Building in Rochester, New York by abolitionist Frederick Douglass. The paper commenced publication on December 3, 1847 and ceased as The N
+  R1[ ] The Globe and Mail | hits=[] | The Globe and Mail is a Canadian newspaper printed in five cities in western and central Canada. With a weekly readership of 2,018,923 in 2015, it is Canada's most widely read newspaper on weekdays and Saturdays, although it falls
+  R1[ ] The Herald-Press (Harvey, North Dakota) | hits=[] | The Herald-Press is a weekly newspaper published in Harvey, North Dakota in the United States. It was founded in 1985 by Charles Eldredge, who merged the "Harvey Herald" with the "Wells County Free Press" of Fessenden. Eldredge re
+  R1[ ] Glen Froseth | hits=[] | Glen A. Froseth (born January 24, 1934) is an American politician in the state of North Dakota. He is a member of the North Dakota House of Representatives, representing the 4th district. A Republican, he was first elected in 1992
+  R2[ ] Nieuwsblad van het Noorden | hits=[] | The Nieuwsblad van het Noorden (; "Newspaper of the North") is a former regional daily newspaper from the city of Groningen in the Netherlands. It was published from 1888 to 2002, when it was merged with the "Groninger Dagblad" an
+  R2[ ] De Krant | hits=[] | Maandblad de Krant (formerly de Hollandse Krant) is a monthly magazine for Dutch immigrants in Canada and the United States. Since April 2008 it has been published by Mokeham Publishing Inc. First in Penticton, British Columbia, i
+  R2[ ] El Acil | hits=[] | El Acil (), meaning "The Authentic", is an Algerian daily newspaper in French language published in Constantine, capital of the north-east of Algeria. The newspaper was established in 1993. It belongs to the EURL Inter-Med-Info gr
+  R2[ ] Hicky's Bengal Gazette | hits=[] | Hicky's Bengal Gazette or the Original Calcutta General Advertiser was an English language weekly newspaper published in Kolkata (then Calcutta), the capital of British India. It was the first newspaper printed in Asia, and was pu
+  R2[ ] Sør-Trøndelag (newspaper) | hits=[] | Sør-Trøndelag is a local online and print newspaper published in Orkanger, Norway. It covers the municipalities of Orkdal, Skaun, Agdenes, Snillfjord, Hemne, Meldal og Rennebu in Sør-Trøndelag and Rindal. Published in tabloid form
+
+#### P18 3hop2__569322_223623_162182 LABEL=UNREC cov1=2 cov12=2/3
+Q: In what region of the country of S-Fone is The place of birth of John Phan located? | gold: South Central Coast []
+decomp: [('S-Fone >> country', 'Vietnam'), ('John Phan >> place of birth', 'Da Nang'), ('In what region of #1 is #2 located?', 'South Central Coast')]
+Q2: Stockton California location
+  R1[G] John Phan | hits=['Vietnam', 'Da Nang'] | Bon "John" Phan (born October 10, 1974 in Da Nang, Vietnam) is a Vietnamese-American professional poker player based in Stockton, California who is a two time World Series of Poker bracelet winner and is a winner and four time fin
+  R1[ ] What's in It for Me | hits=[] | "What's in It for Me" is a song written by Gary Burr and John Jarrard, and recorded by American country music artist John Berry. It was released in June 1994 as the fourth single from the album "John Berry". The song reached numbe
+  R1[G] S-Fone | hits=['Vietnam'] | S-Fone is a mobile communication operator in Vietnam that uses the CDMA technology. Founded on 1 July 2003 in Ho Chi Minh City, Vietnam, S-fone became the third network of Vietnam, breaking the duopoly of the two VNPT operators. I
+  R1[ ] Mueang Phan | hits=[] | Mueang Phan () is a village and "tambon" (subdistrict) of Phan District, in Chiang Rai Province, Thailand. In 2005 it had a total population of 19,326 people. The "tambon" contains 25 villages.
+  R1[ ] Khong Island | hits=[] | Khong Island or Don Khong is the largest island and the seat of administration in the Si Phan Don riverine archipelago located in the Mekong River, Khong District, Champasak Province, southern Laos.
+  R2[ ] Stockton Springs, Maine | hits=[] | Stockton Springs is a town in Waldo County, Maine, United States. The population was 1,591 at the 2010 census. Stockton Springs is home to Fort Point State Park and Fort Point Light, both located on Fort Point, a peninsula on Cape
+  R2[ ] San Diego | hits=[] | Stockton and Kearny went on to recover Los Angeles and force the capitulation of Alta California with the "Treaty of Cahuenga" on January 13, 1847. As a result of the Mexican–American War of 1846–48, the territory of Alta Californ
+  R2[ ] Clements, California | hits=[] | Clements is an unincorporated community in San Joaquin County, California, United States. Clements is located on California State Route 12 and California State Route 88 east-northeast of Lodi. Although it is unincorporated, Clemen
+  R2[ ] The Oaks, Mendocino County, California | hits=[] | The Oaks is an unincorporated community in Mendocino County, California. It is located southwest of Hopland, at an elevation of 1,083 feet (330 m).
+  R2[ ] Fresno, California | hits=[] | To avoid interference with existing VHF television stations in the San Francisco Bay Area and those planned for Chico, Sacramento, Salinas, and Stockton, the Federal Communications Commission decided that Fresno would only have UH
